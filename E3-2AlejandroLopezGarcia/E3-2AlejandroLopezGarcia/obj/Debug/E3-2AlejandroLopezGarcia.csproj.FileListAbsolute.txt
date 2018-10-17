@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\E3-2AlejandroLopezGarcia\E3-2AlejandroLopezGarcia\bin\Debug\E3-2AlejandroLopezGarcia.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\E3-2AlejandroLopezGarcia\E3-2AlejandroLopezGarcia\bin\Debug\E3-2AlejandroLopezGarcia.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\E3-2AlejandroLopezGarcia\E3-2AlejandroLopezGarcia\bin\Debug\E3-2AlejandroLopezGarcia.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\E3-2AlejandroLopezGarcia\E3-2AlejandroLopezGarcia\obj\Debug\E3-2AlejandroLopezGarcia.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\E3-2AlejandroLopezGarcia\E3-2AlejandroLopezGarcia\obj\Debug\E3-2AlejandroLopezGarcia.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\E3-2AlejandroLopezGarcia\E3-2AlejandroLopezGarcia\obj\Debug\E3-2AlejandroLopezGarcia.pdb
